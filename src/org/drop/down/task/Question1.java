@@ -32,5 +32,9 @@ public class Question1 {
 		Select select = new Select(selectState);
 
 		select.selectByIndex(2);
+		
+		System.out.println("work");
+		System.out.println("Work2");
+		System.out.println("Work2");
 	}
 }
